@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9064'
     url: http://www.gutenberg.org/2009/agents/9064
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20070#Four-DaysThe-Story-of-a-War-Marriage
 gutenberg_issued: '2006-12-09'
 gutenberg_type: Text
 identifiers:
